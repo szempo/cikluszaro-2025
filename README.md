@@ -1,18 +1,7 @@
-# MUSZ – Versenyzők és nevezett versenyszámaik
+# MUSZ – Kiválasztott versenyzők listája
 
-Ez az oldal automatikusan generálva lett a MUSZ Live adatai alapján.
+Automatikusan generált lista csak a megadott versenyzőkről.
 
-## Versenyzők listája
-
-| Név | Születési év | Versenyszámok száma | Részletek |
-|-----|--------------|----------------------|-----------|
-| Abbass Fadlalla Abobakr | 1998 | 4 | [Profil](https://live.musz.hu/event/swimmer?OnlineEventId=179754929&UMK=40342) |
-| ... | ... | ... | ... |
-
-## Részletes JSON
-
-Lásd: [`swimmers_full.json`](swimmers_full.json)
-
-## Excel verzió
-
-Lásd: [`swimmers.xlsx`](swimmers.xlsx)
+| Név | Születési év | Nevezett számok | Versenyszámok listája | Link |
+|-----|--------------|------------------|------------------------|------|
+| Abbass Fadlalla Abobakr | 1998 | 4 | 24 - 100 m férfi mell; 26 - 50 m férfi gyors; 50 - 50 m férfi mell; 56 - 50 m férfi pillangó | [Profil](https://live.musz.hu/event/swimmer?OnlineEventId=179754929&UMK=40342) |
